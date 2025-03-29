@@ -4,7 +4,7 @@ FROM condaforge/mambaforge:4.13.0-1
 # Add labels for better documentation
 LABEL maintainer="Sanya Badole <sbadole6@gatech.edu>"
 LABEL version="1.0"
-LABEL description="Docker image for D2 Gene Prediction and Annotation Pipeline"
+LABEL description="Docker image for Gene Prediction and Annotation Pipeline"
 
 # Set working directory
 WORKDIR /app
