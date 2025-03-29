@@ -1,4 +1,4 @@
-# D2 Gene Prediction and Annotation Pipeline
+# Gene Prediction and Annotation Pipeline
 
 A comprehensive pipeline for bacterial genome analysis that combines multiple gene prediction and annotation tools to provide robust results.
 
