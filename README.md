@@ -24,7 +24,6 @@ This pipeline integrates multiple tools for gene prediction and annotation:
 
 ```bash
 git clone https://github.gatech.edu/Gene-Prediction-and-Annotation
-cd D2
 ```
 
 ### Docker Setup
@@ -42,7 +41,7 @@ mkdir -p input_fasta output_annotation
 ## Directory Structure
 
 ```
-D2/
+Gene Prediction and Annotation Folder/
 ├── input_fasta/                # Place your input FASTA files here
 ├── output_annotation/          # Results will be stored here
 │   ├── Barrnap/               # Barrnap results
