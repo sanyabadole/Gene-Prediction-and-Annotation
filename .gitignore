@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Conda
+.conda/
+conda-env/
+*.conda
+
+# Logs
+*.log
+logs/
+
+# Output directories
+output_annotation/
+input_fasta/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Reference genomes
+*.fna.gz
+*.gff.gz
+*.fna
+*.gff
+
+# EggNOG data
+eggnog_data/
+
+# Docker
+.docker/ 
